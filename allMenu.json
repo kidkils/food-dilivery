@@ -1,0 +1,124 @@
+{
+    "result": [
+        {
+            "id_menu": "1",
+            "nama": "Meat Lover",
+            "deskripsi": "Irisan sosis sapi, daging sapi cincang, burger sapi, sosis ayam.",
+            "kategori": "pizza",
+            "harga": "49500",
+            "gambar": "meat-lover.jpg"
+        },
+        {
+            "id_menu": "2",
+            "nama": "Super Supreme",
+            "deskripsi": "Daging ayam dan sapi asap, daging sapi cincang, burger sapi, jamur, paprika merah dan paprika hijau.",
+            "kategori": "pizza",
+            "harga": "49500",
+            "gambar": "supreme.jpg"
+        },
+        {
+            "id_menu": "3",
+            "nama": "Tuna Melt",
+            "deskripsi": "Irisan daging ikan tuna, butiran jagung, saus mayonnaise.",
+            "kategori": "pizza",
+            "harga": "49500",
+            "gambar": "tuna-melt.jpg"
+        },
+        {
+            "id_menu": "4",
+            "nama": "American Favourite",
+            "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
+            "kategori": "pizza",
+            "harga": "49500",
+            "gambar": "american-favourite.jpg"
+        },
+        {
+            "id_menu": "5",
+            "nama": "Beef Spaghetti",
+            "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
+            "kategori": "pasta",
+            "harga": "43000",
+            "gambar": "beef-spaghetti.jpg"
+        },
+        {
+            "id_menu": "6",
+            "nama": "Beef Lasagna",
+            "deskripsi": "Dipanggang, daging sapi cincang. krim putih lembut di tiap lapisan.",
+            "kategori": "pasta",
+            "harga": "48000",
+            "gambar": "beef-lasagna.jpg"
+        },
+        {
+            "id_menu": "7",
+            "nama": "Creamy Beef Fettuccine",
+            "deskripsi": "Daging sapi asap dan jamur, ditumis dengan saus krim lembut.",
+            "kategori": "pasta",
+            "harga": "43000",
+            "gambar": "creamy-beef-fettuccine.jpg"
+        },
+        {
+            "id_menu": "8",
+            "nama": "Meatballs Beef Mushroom",
+            "deskripsi": "Bola daging sapi dengan saus daging sapi cincang dan jamur.",
+            "kategori": "nasi",
+            "harga": "40000",
+            "gambar": "meatballs-beef-mushroom.jpg"
+        },
+        {
+            "id_menu": "9",
+            "nama": "Black Pepper Chicken",
+            "deskripsi": "Ayam dengan saus lada hitam.",
+            "kategori": "nasi",
+            "harga": "40000",
+            "gambar": "black-pepper-chicken.jpg"
+        },
+        {
+            "id_menu": "10",
+            "nama": "Oriental Chicken",
+            "deskripsi": "aging ayam berpadu dengan saus oriental.",
+            "kategori": "nasi",
+            "harga": "40000",
+            "gambar": "oriental-chicken.jpg"
+        },
+        {
+            "id_menu": "11",
+            "nama": "Choco Mint",
+            "deskripsi": "",
+            "kategori": "minuman",
+            "harga": "24000",
+            "gambar": "choco-mint.jpg"
+        },
+        {
+            "id_menu": "12",
+            "nama": "Toffee Coffee",
+            "deskripsi": "",
+            "kategori": "minuman",
+            "harga": "24000",
+            "gambar": "toffee-coffee.jpg"
+        },
+        {
+            "id_menu": "13",
+            "nama": "Green Tea Shake",
+            "deskripsi": "",
+            "kategori": "minuman",
+            "harga": "24000",
+            "gambar": "green-tea-shake.jpg"
+        },
+        {
+            "id_menu": "14",
+            "nama": "Strawberry Milkshake",
+            "deskripsi": "",
+            "kategori": "minuman",
+            "harga": "24000",
+            "gambar": "strawberry-milkshake.jpg"
+        },
+        {
+            "id_menu": "15",
+            "nama": "Chocolate Milkshake",
+            "deskripsi": "",
+            "kategori": "minuman",
+            "harga": "24000",
+            "gambar": "chocolate-milkshake.jpg"
+        }
+    ]
+}
