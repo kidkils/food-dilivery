@@ -19,6 +19,7 @@ API Food Dilivery adalah WEB api yang menyediakan service untuk beberapa menu ma
 https://youtu.be/FKklQqANrhc
 
 # Bio
+<pre>
 NAMA        : AGUS PURNAWAN
 NIM         : 425 17 027
 KELAS       : 3A
@@ -26,3 +27,4 @@ PRODI       : D4 TEKNIK KOMPUTER DAN JARINGAN
 MATA KULIAH : REKAYASA WEB
 DOSEN       : IRFAN SYAMSUDDIN, ST, PG.Dipil.BEC, M.Com.ISM,Ph.D
             : MUHAMMAD YASIR NUR UTOMO, S. ST. M. Eng
+</pre>
